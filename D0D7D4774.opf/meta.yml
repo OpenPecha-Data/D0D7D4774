@@ -1,0 +1,22 @@
+id: D0D7D4774
+source: https://library.bdrc.io
+source_file: null
+initial_creation_type: ocr
+imported: '2021-12-31T06:44:23+00:00'
+last_modified: '2022-05-30T04:15:37.036038+00:00'
+parser: https://github.com/OpenPecha-dev/openpecha-toolkit/blob/a7eec5e12ddce18d0ed1dbb732a42cf48f94dd09/openpecha/formatters/hfml.py
+source_metadata:
+  base:
+    '5942':
+      image_group_id: I1PD95941
+      title: རྨི་ལམ་ཡིད་བཞིན་ནོར་བུའི་གཏམ།
+      total_pages: 1144
+      order: 96
+      base_file: 5942.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
